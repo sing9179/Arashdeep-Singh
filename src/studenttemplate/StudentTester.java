@@ -20,7 +20,7 @@ public class StudentTester {
         StudentTemplate s2 = new StudentTemplate("Heman");
         //s2.setName("Balraj");
         
-        StudentTemplate s3 = new StudentTemplate("Balraj") ;
+        StudentTemplate s3 = new StudentTemplate("Balraj singh") ;
         //s3.setName("Heman");
         
         StudentTemplate[] list = new StudentTemplate[3];
