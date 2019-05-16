@@ -17,7 +17,7 @@ public class StudentTester {
         //s1.setName("Arash");
         //System.out.print(studentList.getName());
         
-        StudentTemplate s2 = new StudentTemplate("Heman");
+        StudentTemplate s2 = new StudentTemplate("Heman sandhu");
         //s2.setName("Balraj");
         
         StudentTemplate s3 = new StudentTemplate("Balraj singh") ;
