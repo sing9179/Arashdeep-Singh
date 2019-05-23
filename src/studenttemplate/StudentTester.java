@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  May23,2019
- Arashdeep Singh*/
+ Arashdeep Singh sheridan college*/
 package studenttemplate;
 
 /**
