@@ -22,6 +22,21 @@ public class StudentTemplate {
     public StudentTemplate(String name, int s){
         this.name = name;
         this.sid =s;
+        private int Maxcourse;
+
+    /**
+     * @return the Maxcourse
+     */
+    public int getMaxcourse() {
+        return Maxcourse;
+    }
+
+    /**
+     * @param Maxcourse the Maxcourse to set
+     */
+    public void setMaxcourse(int Maxcourse) {
+        this.Maxcourse = Maxcourse;
+    }
     }
     
     public String getName() {
