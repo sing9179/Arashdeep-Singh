@@ -31,5 +31,6 @@ public class StudentTester {
         for(int i=0; i<list.length; i++){
            System.out.println(list[i].getName()+"   " + list[i].getSid());
         }
+      System.out.println("fetch example");
     }
 }
