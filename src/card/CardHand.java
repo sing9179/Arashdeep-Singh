@@ -7,7 +7,7 @@ package card;
 
 /**
  *
- * @author Arashdeep Singh
+ * @author Arashdeep Singh Sandhu
  */
 public class CardHand {
      private int size = 60;
